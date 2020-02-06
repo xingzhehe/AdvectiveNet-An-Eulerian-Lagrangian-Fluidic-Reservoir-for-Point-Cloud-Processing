@@ -1,5 +1,5 @@
 # AdvectiveNet: An Eulerian-Lagrangian Fluidic Reservoir for Point Cloud Processing
-We propose a new neural network module inspired by advection in CDF to deal with the high-level tasks on point clouds including classification and segmentation.
+We propose a new neural network module inspired by advection in CFD to deal with the high-level tasks on point clouds including classification and segmentation.
 
 [[Paper]](https://arxiv.org/abs/2002.00118)
 
